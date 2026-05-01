@@ -1,4 +1,3 @@
-# Dogal_dil_isleme
 # İnsan Kaynakları Projesi: CV-İlan Eşleşmesi'nde Metin Veri Ön İşleme ve Zipf Yasası Analizi
 Proje Amacı
 
